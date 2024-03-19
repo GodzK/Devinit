@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dev/static/css/main.a7586fdb.css",
+    "main.js": "/dev/static/js/main.13363b6e.js",
+    "static/js/787.a2cb61a6.chunk.js": "/dev/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Burtons.otf": "/dev/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "index.html": "/dev/index.html",
+    "main.a7586fdb.css.map": "/dev/static/css/main.a7586fdb.css.map",
+    "main.13363b6e.js.map": "/dev/static/js/main.13363b6e.js.map",
+    "787.a2cb61a6.chunk.js.map": "/dev/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7586fdb.css",
+    "static/js/main.13363b6e.js"
+  ]
+}
