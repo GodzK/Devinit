@@ -11,8 +11,8 @@ function App() {
         <div className="mx-auto bg-gradient-to-b from-amber-400 rounded-full w-56 h-56 relative overflow-hidden md:h-96 md:w-96 mb-2">
           <img src='/avatar.png' layout="fill" objectFit="cover" alt="Avatar" />
         </div>
-        <h1 className='text-3xl md:text-5xl font-medium text-amber-400'>พีเค ภัคพล ธีรชัยศุภกิจ</h1>
-        <h3 className='text-xl md:text-2xl'>Frontend Developer from  <span className='bg-gradient-to-b from-amber-400'>Devinit#2</span></h3>
+        <h1 className='text-3xl md:text-5xl font-medium text-amber-400'>Phakaphol Dherachaisuphakij</h1>
+        <h3 className='text-xl md:text-2xl'><span className='bg-gradient-to-b from-amber-400'>67130500028</span></h3>
         <div className='text-5xl py-4 flex justify-center gap-16 text-gray-600'>
           <a href='https://www.linkedin.com/in/phakaphol-dherachaisuprakij-1092ab256/' target="_blank" rel="noopener noreferrer">
             <AiFillLinkedin />
